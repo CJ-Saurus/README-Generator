@@ -26,20 +26,13 @@ ${data.link}
 ## Screenshot
 ![alt-text](${data.screenshot})
 ## Table of Contents
-* [Features](#features)
-* [Languages & Dependencies](#languagesanddependencies)
-* [How to Use This Application](#HowtoUseThisApplication)
+* [Installation](#installation)
 * [Contributors](#contributors)
 * [Testing](#testing)
-* [Questions](#questions)
-## Features
-${data.features}
-## Languages & Dependencies
-${data.require}
-## How to Use This Application:
-${data.usage}
-## Contributors
-${data.contributors}
+## Installation
+${data.installation}
+## Credits
+${data.credits}
 ## Testing
 ${data.test}
 `;
