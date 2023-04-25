@@ -32,6 +32,16 @@ const questions = [
 },
 {
     type: "input",
+    name: "installation",
+    message: "What steps are required to install your project?",
+},
+{
+    type: "input",
+    name: "usage",
+    message: "Provide instructions and examples for use.",
+},
+{
+    type: "input",
     name: "credits",
     message: "List any contributors"
 },

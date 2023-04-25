@@ -27,10 +27,13 @@ ${data.link}
 ![alt-text](${data.screenshot})
 ## Table of Contents
 * [Installation](#installation)
-* [Contributors](#contributors)
+* [Usage](#usage)
+* [Credits](#credits)
 * [Testing](#testing)
 ## Installation
 ${data.installation}
+## Usage
+${data.usage}
 ## Credits
 ${data.credits}
 ## Testing
