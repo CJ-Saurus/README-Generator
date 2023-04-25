@@ -10,4 +10,4 @@ Created a README Generator using Inquirer and Node
 
 ## Screenshot
 
-<img src=".SRG.png"/>
+<img src="./SRG.png"/>
